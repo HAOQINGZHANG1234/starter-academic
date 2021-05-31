@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Haoqing Zhang's Homepage"  # Website name
-baseurl: 'https://haoqing.betlify.app/' # Website URL
+baseurl: 'https://haoqing.netlify.app/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
